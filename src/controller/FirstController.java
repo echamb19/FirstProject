@@ -5,10 +5,22 @@ import java.util.Scanner;
 public class FirstController 
 {
 	public void start() 
+	{
+		
+	}
+	
 	
 	private void questions ()
+	{
+		
+	}
+
 	
-	private void more Input()
+	private void moreInput()
+	{
+		
+	}
+
 	
 	public boolean validInt(String sample) 
 	
